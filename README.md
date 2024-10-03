@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Project [![][autotest_badge]][autotest_workflow]
 
 ## Preliminaries
@@ -200,3 +201,6 @@ Time to submit your solution for testing.
 [github_actions]: ../../actions
 [github_repo]: ../../
 
+=======
+# GitExerciseOther
+>>>>>>> other-repo/main
